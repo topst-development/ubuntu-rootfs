@@ -1,0 +1,4 @@
+deb http://mirror.misakamikoto.network/ubuntu-ports/ focal main restricted universe multiverse
+deb http://mirror.misakamikoto.network/ubuntu-ports/ focal-updates main restricted universe multiverse
+deb http://mirror.misakamikoto.network/ubuntu-ports/ focal-backports main restricted universe multiverse
+deb http://mirror.misakamikoto.network/ubuntu-ports/ focal-security main restricted universe multiverse

@@ -1,0 +1,13 @@
+libpvr-telechips_1.15-r0_arm64.deb
+libgles1-telechips_1.15-r0_arm64.deb
+pvr-firmware_1.15-r0_arm64.deb
+libgles2-telechips_1.15-r0_arm64.deb
+libcrypto1.1_1.1.1n-r0_arm64.deb
+libssl1.1_1.1.1n-r0_arm64.deb
+tcf-agent_1.7.0+git0+a022ef2f1a-r0_arm64.deb
+gdbserver_9.1-r0_arm64.deb
+gpio-example_999-r0_arm64.deb
+udev-extraconf_1.1-r0_arm64.deb
+audio-example_0+cdda1de7d9-r0_arm64.deb 
+echoserver-example_0+93b08924d1-r0_arm64.deb 
+spi-example_0+ac8c8b2e50-r0_arm64.deb 

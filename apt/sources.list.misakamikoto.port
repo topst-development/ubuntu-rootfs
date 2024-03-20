@@ -1,0 +1,4 @@
+deb http://mirror.misakamikoto.network/ubuntu-ports/ jammy main restricted universe multiverse
+deb http://mirror.misakamikoto.network/ubuntu-ports/ jammy-updates main restricted universe multiverse
+deb http://mirror.misakamikoto.network/ubuntu-ports/ jammy-backports main restricted universe multiverse
+deb http://mirror.misakamikoto.network/ubuntu-ports/ jammy-security main restricted universe multiverse

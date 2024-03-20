@@ -1,0 +1,11 @@
+[Unit]
+Description=TOPST Device Test Main Core Application
+
+[Service]
+Type=simple
+ExecStart=/bin/bash -c 'sleep 5 && /run/media/sda1/topst_test_main_script.sh'
+Restart=always
+RestartSec=3
+
+[Install]
+WantedBy=multi-user.target
